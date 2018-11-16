@@ -1,3 +1,5 @@
 <?php 
-	echo "Hallo World";
+	echo "Halaman Utama";
 ?>
+<hr>
+<a href="login.php">Login</a>
